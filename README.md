@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MOBILE , AI & MERN stuck developer from Somalia</h3>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-moha&" alt="ahmed-moha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-moha&" alt="star-Elmi" /></p>
 <p align="left"> <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/businesswoman-working-on-a-laptop-and-making-an-approve-gesture-animation-download-in-lottie-json-gif-static-svg-file-formats--arab-thumbs-up-business-people-pack-animations-6319271.mp4" alt="istarliin" /> </p>
 
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Frameworks, and AI**
 
-- 💬 Ask me about **Flutter, Android, React, postgre , mongDB , python , ML ,Dl  and Nodejs **
+- 💬 Ask me about **Flutter,  React,  python , ML ,Dl  and Nodejs **
 
 - 📫 How to reach me **istarmohamed503@gmail.com**
 
